@@ -1,0 +1,16 @@
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\porcentagem.csprojAssemblyReference.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\porcentagem.AssemblyInfoInputs.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\porcentagem.AssemblyInfo.cs
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\porcentagem.csproj.CoreCompileInputs.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\bin\Debug\net5.0\porcentagem.exe
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\bin\Debug\net5.0\porcentagem.deps.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\bin\Debug\net5.0\porcentagem.runtimeconfig.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\bin\Debug\net5.0\porcentagem.runtimeconfig.dev.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\bin\Debug\net5.0\porcentagem.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\bin\Debug\net5.0\ref\porcentagem.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\bin\Debug\net5.0\porcentagem.pdb
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\porcentagem.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\ref\porcentagem.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\porcentagem.pdb
+D:\GFT - Estagio\gft-start_uni2021\Estudo\porcentagem\obj\Debug\net5.0\porcentagem.genruntimeconfig.cache

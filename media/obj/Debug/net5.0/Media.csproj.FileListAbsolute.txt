@@ -1,0 +1,16 @@
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\Media.csprojAssemblyReference.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\Media.AssemblyInfoInputs.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\Media.AssemblyInfo.cs
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\Media.csproj.CoreCompileInputs.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\bin\Debug\net5.0\Media.exe
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\bin\Debug\net5.0\Media.deps.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\bin\Debug\net5.0\Media.runtimeconfig.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\bin\Debug\net5.0\Media.runtimeconfig.dev.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\bin\Debug\net5.0\Media.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\bin\Debug\net5.0\ref\Media.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\bin\Debug\net5.0\Media.pdb
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\Media.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\ref\Media.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\Media.pdb
+D:\GFT - Estagio\gft-start_uni2021\Estudo\Media\obj\Debug\net5.0\Media.genruntimeconfig.cache

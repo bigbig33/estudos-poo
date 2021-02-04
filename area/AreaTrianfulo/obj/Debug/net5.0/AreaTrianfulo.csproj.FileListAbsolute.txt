@@ -1,0 +1,16 @@
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\bin\Debug\net5.0\AreaTrianfulo.exe
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\bin\Debug\net5.0\AreaTrianfulo.deps.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\bin\Debug\net5.0\AreaTrianfulo.runtimeconfig.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\bin\Debug\net5.0\AreaTrianfulo.runtimeconfig.dev.json
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\bin\Debug\net5.0\AreaTrianfulo.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\bin\Debug\net5.0\ref\AreaTrianfulo.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\bin\Debug\net5.0\AreaTrianfulo.pdb
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\AreaTrianfulo.csprojAssemblyReference.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\AreaTrianfulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\AreaTrianfulo.AssemblyInfoInputs.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\AreaTrianfulo.AssemblyInfo.cs
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\AreaTrianfulo.csproj.CoreCompileInputs.cache
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\AreaTrianfulo.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\ref\AreaTrianfulo.dll
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\AreaTrianfulo.pdb
+D:\GFT - Estagio\gft-start_uni2021\Estudo\area\AreaTrianfulo\obj\Debug\net5.0\AreaTrianfulo.genruntimeconfig.cache
